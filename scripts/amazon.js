@@ -88,3 +88,4 @@ document.querySelectorAll('.js-add-to-cart')
         .innerHTML = cartQuantity;
     });
   });
+  //willl be completed soon.
